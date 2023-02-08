@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlanaBF
-- 👀 I’m upskilling for a career change from teaching to Front End Web Development.
+- 👀 I’m upskilling for a career change to Front End Web Development.
 - 🌱 I’m currently learning about Front End Web Development on a Skills Boot Camp.
 
 
