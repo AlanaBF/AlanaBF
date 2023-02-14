@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlanaBF
-- 👀 I’m upskilling for a career change to Front End Web Development.
-- 🌱 I’m currently learning about Front End Web Development on a Skills Boot Camp.
+- 👀 I’m upskilling for a career change to Project Management or Front End Web Development.
+- 🌱 I’m currently learning about Front End Web Development on a Skills Boot Camp and completing my Prince2 and AgilePM certifications.
 
 
 <!---
