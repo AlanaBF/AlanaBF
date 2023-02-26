@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AlanaBF
 - 👀 I’m upskilling for a career change to Project Management or Front End Web Development.
 - 🌱 I’m currently learning about Front End Web Development on a Skills Boot Camp and completing my Prince2 and AgilePM certifications.
-- Proficient in:
+- Proficient in the following technologies:
+- 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
