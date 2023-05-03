@@ -11,11 +11,13 @@
   </a>
 </div>
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=AlanaBF&style=plastic&color=brightgreen" alt=""/>
+</div>
 
 <h1>
   Hey There
-  <img id="header" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img  id="header" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 - 👋 Hi, I’m @AlanaBF
@@ -34,9 +36,11 @@
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanaBF&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanaBF&theme=panda&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Alana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanaBF)](https://github.com/AlanaBF/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanaBF&layout=compact&theme=react)](https://github.com/AlanaBF/github-readme-stats)
+
+[![Alana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanaBF&theme=cobalt&show_icons=true)](https://github.com/AlanaBF/github-readme-stats)
 
 <!---
 AlanaBF/AlanaBF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
