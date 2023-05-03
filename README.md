@@ -4,23 +4,23 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alanabarrettfrew/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img id="header" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/AlanaBF81">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img id="header" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=AlanaBF&style=flat-square&color=blue" alt=""/>
+<img id="header" src="https://komarev.com/ghpvc/?username=AlanaBF&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey There
+  <img id="header" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 - 👋 Hi, I’m @AlanaBF
-- 👀 I’m upskilling for a career change to Project Management or Front End Web Development.
-- 🌱 I’m currently learning about Front End Web Development on a Skills Boot Camp and completing my Prince2 and AgilePM certifications.
+- 👀 Front End Web Developer.
+- 🌱 I’m currently working hard to grow my knowledge about Front End Web Development following a 16 week Skills Boot Camp 
 - Proficient in the following technologies:
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
