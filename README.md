@@ -13,7 +13,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AlanaBF&style=plastic&color=brightgreen" alt=""/>
 
-<h1 align="center">
+<h1>
   Hey There
   <img id="header" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -22,6 +22,8 @@
 - 👀 Front End Web Developer.
 - 🌱 I’m currently working hard to grow my knowledge about Front End Web Development following a 16 week Skills Boot Camp 
 - Proficient in the following technologies:
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alanabarrettfrew/)
+
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
