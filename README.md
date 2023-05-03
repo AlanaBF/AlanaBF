@@ -36,7 +36,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanaBF&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
+[![Alana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanaBF)](https://github.com/AlanaBF/github-readme-stats)
 
 <!---
 AlanaBF/AlanaBF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
