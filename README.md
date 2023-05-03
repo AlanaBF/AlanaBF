@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<img align="center" id="header" src="https://komarev.com/ghpvc/?username=AlanaBF&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=AlanaBF&style=plastic&color=bright-green" alt=""/>
 
 <h1 align="center">
   Hey There
