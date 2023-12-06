@@ -18,9 +18,7 @@
   <a href="https://www.linkedin.com/in/alanabarrettfrew/"> 
     <img id="header" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/AlanaBF81"> 
-    <img id="header" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 </h3>
 
 <h3 align="center">Languages and Tools:</h3>
