@@ -12,7 +12,7 @@
 
 <p align="center"> 🔭 I’m currently working on **CricketFeverHub**</p>
 
-<p align="center"> 🌱 I’m currently learning **Java, Springboot, Python, AI**</p>
+<p align="center"> 🌱 I’m currently learning **Full Stack Web Development, Python, AI**</p>
 
 <h3 align="center"> Connect with me: 
   <a href="https://www.linkedin.com/in/alanabarrettfrew/"> 
