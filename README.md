@@ -20,6 +20,12 @@
   </a>
 
 </h3>
+<h3 align="center">Check out my articles on Medium</h3>
+<h4 align="center">Coding Related</h4>
+<div align="center"><a href="https://medium.com/version-1/implementing-auth0-user-authentication-in-a-vite-react-app-4091099bd086" target="_blank" rel="noreferrer" align="center">Implementing user authentication in a vite-react-app</a></div>
+<div align="center"><a href="https://medium.com/version-1/exploring-github-copilot-1c4919069c7f" target="_blank" rel="noreferrer" align="center">Exploring GitHub Copilot</a></div>
+<h4 align="center">Non Coding Related</h4>
+<div align="center"><a href="https://medium.com/version-1/unlocking-efficiency-bulk-adding-names-to-certificates-with-mail-merge-in-word-and-powerpoint-c49559bd9d4b" target="_blank" rel="noreferrer" align="center">Bulk adding names to certificates with mail merge in Word and PowerPoint</a></div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
