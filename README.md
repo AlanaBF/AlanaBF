@@ -15,12 +15,22 @@
 <p align="center"> 🌱 I’m currently learning **Full Stack Web Development, Python, AI**</p>
 
 <h3 align="center"> Connect with me: 
+  <br/>
   <a href="https://www.linkedin.com/in/alanabarrettfrew/"> 
     <img id="header" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  </a>
+  <a href="https://medium.com/@alana.barrettfrew">
+  <img id="header" src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+</a>
+<a href="https://www.instagram.com/teacherturnsturtle81/">
+  <img id="header" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+<a href="https://www.facebook.com/teacherturnsturtle/">
+  <img id="header" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 
 </h3>
-<h3 align="center">Check out my articles on Medium</h3>
+<h3 align="center">Check out my articles on Medium: </h3>
 <div align="center"><a href="https://medium.com/version-1/my-thoughts-and-relationship-with-ai-and-technology-d03b223284f2" target="_blank" rel="noreferrer" align="center">My thoughts and relationship with AI and Technology</a></div>
 <br/>
 <div align="center"><a href="https://medium.com/version-1/implementing-auth0-user-authentication-in-a-vite-react-app-4091099bd086" target="_blank" rel="noreferrer" align="center">Implementing user authentication in a vite-react-app</a></div>
