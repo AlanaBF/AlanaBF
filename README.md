@@ -16,21 +16,22 @@
 
 <h3 align="center"> Connect with me: 
   <br/>
-<a href="https://www.linkedin.com/in/alanabarrettfrew/" onclick="window.open(this.href, '_blank'); return false;">
+<a href="https://www.linkedin.com/in/alanabarrettfrew/" target="_blank">
     <img id="header" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-<a href="https://medium.com/@alana.barrettfrew" onclick="window.open(this.href, '_blank'); return false;">
+<a href="https://medium.com/@alana.barrettfrew" target="_blank">
     <img id="header" src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
 </a>
 
-<a href="https://www.instagram.com/teacherturnsturtle81/" onclick="window.open(this.href, '_blank'); return false;">
+<a href="https://www.instagram.com/teacherturnsturtle81/" target="_blank">
     <img id="header" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 
-<a href="https://www.facebook.com/teacherturnsturtle/" onclick="window.open(this.href, '_blank'); return false;">
+<a href="https://www.facebook.com/teacherturnsturtle/" target="_blank">
     <img id="header" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </a>
+
 
 
 
