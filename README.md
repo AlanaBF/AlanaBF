@@ -14,13 +14,19 @@
 
 <p align="center"> 🌱 I’m currently learning **Full Stack Web Development, Python, AI**</p>
 
-<h3 align="center"> Connect with me: 
-  <br/>
+<h3 align="center"> Connect with me: </h3>
+
+<div align="center">
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanabarrettfrew/)
 [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alana.barrettfrew)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teacherturnsturtle81/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/teacherturnsturtle/)
-</h3>
+
+</div>
+
+
+
 <h3 align="center">Check out my articles on Medium: </h3>
 <div align="center"><a href="https://medium.com/version-1/my-thoughts-and-relationship-with-ai-and-technology-d03b223284f2" target="_blank" rel="noreferrer" align="center">My thoughts and relationship with AI and Technology</a></div>
 <br/>
