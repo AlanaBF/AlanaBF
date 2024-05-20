@@ -52,7 +52,9 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanabf&show_icons=true&locale=en" alt="alanabf" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanabf&" alt="alanabf" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanabf" alt="alanabf" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AlanaBF" alt="GitHub Streak" /></a>
+
 
 <!---
 AlanaBF/AlanaBF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
