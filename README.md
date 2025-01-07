@@ -10,7 +10,7 @@
 
 <p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alanabf" alt="alanabf" /></a> </p>
 
-<p align="center"> 🔭 I’m currently working on <a align="center" target="_blank" rel="noreferrer"  href="https://www.udemy.com/course/100-days-of-code">100 Days of Code - The Complete Python Pro Bootcamp by Dr Angela Yu</a></p>
+<p align="center"> 🔭 I’m currently working on <a href="https://www.udemy.com/course/100-days-of-code" align="center" target="_blank" rel="noreferrer"  >100 Days of Code - The Complete Python Pro Bootcamp by Dr Angela Yu</a></p>
 
 <p align="center"> 🌱 I’m currently learning **Full Stack Web Development, Python, AI**</p>
 
