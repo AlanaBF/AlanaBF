@@ -10,7 +10,7 @@
 
 <p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alanabf" alt="alanabf" /></a> </p>
 
-<p align="center"> 🔭 I’m currently working on **CricketFeverHub**</p>
+<p align="center"> 🔭 I’m currently working on <a align="center" target="_blank" rel="noreferrer"  href="https://www.udemy.com/course/100-days-of-code">100 Days of Code - The Complete Python Pro Bootcamp by Dr Angela Yu</a></p>
 
 <p align="center"> 🌱 I’m currently learning **Full Stack Web Development, Python, AI**</p>
 
@@ -28,6 +28,10 @@
 
 
 <h3 align="center">Check out my articles on Medium: </h3>
+<div align="center"><a href="https://medium.com/version-1/effective-onboarding-strategies-for-seamless-integration-725e19772383" target="_blank" rel="noreferrer" align="center">Effective Onboarding Strategies for Seamless integration</a></div>
+<br/>
+<div align="center"><a href="https://medium.com/version-1/my-time-with-the-awesome-version-1-ai-labs-team-3c51a82ce3e0" target="_blank" rel="noreferrer" align="center">My time with the awesome Version 1 AI Labs</a></div>
+<br/>
 <div align="center"><a href="https://medium.com/version-1/my-thoughts-and-relationship-with-ai-and-technology-d03b223284f2" target="_blank" rel="noreferrer" align="center">My thoughts and relationship with AI and Technology</a></div>
 <br/>
 <div align="center"><a href="https://medium.com/version-1/implementing-auth0-user-authentication-in-a-vite-react-app-4091099bd086" target="_blank" rel="noreferrer" align="center">Implementing user authentication in a vite-react-app</a></div>
@@ -35,7 +39,8 @@
 <div align="center"><a href="https://medium.com/version-1/exploring-github-copilot-1c4919069c7f" target="_blank" rel="noreferrer" align="center">Exploring GitHub Copilot</a></div>
 <br/>
 <div align="center"><a href="https://medium.com/version-1/unlocking-efficiency-bulk-adding-names-to-certificates-with-mail-merge-in-word-and-powerpoint-c49559bd9d4b" target="_blank" rel="noreferrer" align="center">Bulk adding names to certificates with mail merge in Word and PowerPoint</a></div>
-
+<br/>
+<div align="center"><a href="https://medium.com/version-1/automating-pdf-splitting-with-python-a-step-by-step-guide-707689041282" target="_blank" rel="noreferrer" align="center">Automating PDF Splitting with Python. A step by step guide</a></div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
