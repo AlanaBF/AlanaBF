@@ -10,8 +10,6 @@
 
 <p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alanabf" alt="alanabf" /></a> </p>
 
-<p align="center"> 🔭 I’m currently working on <a href="https://www.udemy.com/course/100-days-of-code" align="center" target="_blank" rel="noreferrer"  >100 Days of Code - The Complete Python Pro Bootcamp by Dr Angela Yu</a></p>
-
 <p align="center"> 🌱 I’m currently learning **Full Stack Web Development, Python, AI**</p>
 
 <h3 align="center"> Connect with me: </h3>
@@ -20,7 +18,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanabarrettfrew/)
 [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alana.barrettfrew)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teacherturnsturtle81/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/teacherturnsturtle/)
 
 </div>
@@ -28,6 +25,11 @@
 
 
 <h3 align="center">Check out my articles on Medium: </h3>
+
+<div align="center"><a href="https://medium.com/version-1/how-to-get-the-best-out-of-your-ai-code-assistant-0b89d01b2869" target="_blank" rel="noreferrer" align="center">How to Get the Best Out of Your AI Code Assistant</a></div>
+</br>
+<div align="center"><a href="https://medium.com/version-1/a-year-on-the-shadow-board-d9d9c711d455"target="_blank" rel="noreferrer" align="center">A Year on the Shadow Board</a></div>
+</br>
 <div align="center"><a href="https://medium.com/version-1/effective-onboarding-strategies-for-seamless-integration-725e19772383" target="_blank" rel="noreferrer" align="center">Effective Onboarding Strategies for Seamless integration</a></div>
 <br/>
 <div align="center"><a href="https://medium.com/version-1/my-time-with-the-awesome-version-1-ai-labs-team-3c51a82ce3e0" target="_blank" rel="noreferrer" align="center">My time with the awesome Version 1 AI Labs</a></div>
