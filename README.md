@@ -2,15 +2,45 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Alana</h1>
+# Alana Barrett-Frew
 
-<h3 align="center">A passionate full stack developer from Cornwall</h3>
+Software and AI engineer in Cornwall. This is my personal account: degree work, side projects, and things I build to understand how something works.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alanabf&label=Profile%20views&color=0e75b6&style=flat" alt="alanabf" /> </p>
+My professional work is in AI for the UK public sector and mostly lives behind client repos. That side of things is on [alanabarrettfrew.com](https://www.alanabarrettfrew.com).
 
-<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alanabf" alt="alanabf" /></a> </p>
+🌐 [Website](https://www.alanabarrettfrew.com) · 💼 [LinkedIn](https://www.linkedin.com/in/alanabarrettfrew/) · ✍️ [Medium](https://medium.com/@alana.barrettfrew)
 
-<p align="center"> 🌱 I’m currently learning **Full Stack Web Development, Python, AI**</p>
+---
+
+## Degree
+
+**BSc Advanced Software Engineering (AI)** — degree apprenticeship, Feb 2025 to Apr 2027. Machine learning, data engineering, cloud architecture, cyber security and data governance, all built alongside full-time delivery.
+
+**[ML Readability Model](https://github.com/AlanaBF)** — regression models predicting text readability. Ridge, Lasso, XGBoost, Random Forest and a stacked ensemble, following CRISP-DM. Module 2.
+
+## Building
+
+**[LeTraducteur](https://github.com/AlanaBF/letraducteur)** — full-stack language learning app. Helsinki-NLP translation models, conversation practice with grammar correction, speech recognition and TTS. React, TypeScript, Flask, PyTorch, Hugging Face, Docker. [Try it on Hugging Face Spaces](https://huggingface.co/spaces/AlanaBF/LeTraducteur).
+
+**[Cricket Fever Hub](https://www.cricketfeverhub.com)** — live scores, weather and news via external APIs. Somewhere I keep going back to when I want to try something new.
+
+Currently poking at agentic architectures and RAG, mostly by building things and breaking them.
+
+## Writing
+
+- [How to Get the Best Out of Your AI Code Assistant](https://medium.com/version-1/how-to-get-the-best-out-of-your-ai-code-assistant-0b89d01b2869)
+- [My Time with the Version 1 AI Labs Team](https://medium.com/version-1/my-time-with-the-awesome-version-1-ai-labs-team-3c51a82ce3e0)
+- [Automating PDF Splitting with Python](https://medium.com/version-1/automating-pdf-splitting-with-python-a-step-by-step-guide-707689041282)
+
+[More on Medium →](https://medium.com/@alana.barrettfrew)
+
+## Earlier work
+
+The bootcamp projects are still here on purpose. I came into tech from twenty years in education, and I keep them public because people considering the same jump should be able to see where it starts.
+
+## Working with
+
+Python · TypeScript · React · Angular · PyTorch · Hugging Face · Docker · Node.js
 
 <h3 align="center"> Connect with me: </h3>
 
@@ -18,75 +48,8 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanabarrettfrew/)
 [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alana.barrettfrew)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/teacherturnsturtle/)
 
 </div>
-
-
-
-<h3 align="center">Check out my articles on Medium: </h3>
-
-<div align="center"><a href="https://medium.com/version-1/how-to-get-the-best-out-of-your-ai-code-assistant-0b89d01b2869" target="_blank" rel="noreferrer" align="center">How to Get the Best Out of Your AI Code Assistant</a></div>
-</br>
-<div align="center"><a href="https://medium.com/version-1/a-year-on-the-shadow-board-d9d9c711d455"target="_blank" rel="noreferrer" align="center">A Year on the Shadow Board</a></div>
-</br>
-<div align="center"><a href="https://medium.com/version-1/effective-onboarding-strategies-for-seamless-integration-725e19772383" target="_blank" rel="noreferrer" align="center">Effective Onboarding Strategies for Seamless integration</a></div>
-<br/>
-<div align="center"><a href="https://medium.com/version-1/my-time-with-the-awesome-version-1-ai-labs-team-3c51a82ce3e0" target="_blank" rel="noreferrer" align="center">My time with the awesome Version 1 AI Labs</a></div>
-<br/>
-<div align="center"><a href="https://medium.com/version-1/my-thoughts-and-relationship-with-ai-and-technology-d03b223284f2" target="_blank" rel="noreferrer" align="center">My thoughts and relationship with AI and Technology</a></div>
-<br/>
-<div align="center"><a href="https://medium.com/version-1/implementing-auth0-user-authentication-in-a-vite-react-app-4091099bd086" target="_blank" rel="noreferrer" align="center">Implementing user authentication in a vite-react-app</a></div>
-<br/>
-<div align="center"><a href="https://medium.com/version-1/exploring-github-copilot-1c4919069c7f" target="_blank" rel="noreferrer" align="center">Exploring GitHub Copilot</a></div>
-<br/>
-<div align="center"><a href="https://medium.com/version-1/unlocking-efficiency-bulk-adding-names-to-certificates-with-mail-merge-in-word-and-powerpoint-c49559bd9d4b" target="_blank" rel="noreferrer" align="center">Bulk adding names to certificates with mail merge in Word and PowerPoint</a></div>
-<br/>
-<div align="center"><a href="https://medium.com/version-1/automating-pdf-splitting-with-python-a-step-by-step-guide-707689041282" target="_blank" rel="noreferrer" align="center">Automating PDF Splitting with Python. A step by step guide</a></div>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>   
- <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-</p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanabf&show_icons=true&locale=en&layout=compact" alt="alanabf" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanabf&show_icons=true&locale=en" alt="alanabf" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlanaBF" alt="GitHub Streak" /></p>
-
 
 <!---
 AlanaBF/AlanaBF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
