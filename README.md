@@ -6,7 +6,7 @@
 
 Software and AI engineer in Cornwall. This is my personal account: degree work, side projects, and things I build to understand how something works.
 
-My professional work is in AI for the UK public sector and mostly lives behind client repos. That side of things is on [alanabarrettfrew.com](https://www.alanabarrettfrew.com).
+My professional work is in AI for the UK public sector and mostly lives behind client repos. That side of things is described on [alanabarrettfrew.com](https://www.alanabarrettfrew.com).
 
 🌐 [Website](https://www.alanabarrettfrew.com) · 💼 [LinkedIn](https://www.linkedin.com/in/alanabarrettfrew/) · ✍️ [Medium](https://medium.com/@alana.barrettfrew)
 
